@@ -4,7 +4,6 @@
 - 🔭 Atualmente trabalhando como Full-stack **Siapesq**
 
 - 🌱Atualmente estou expandindo meu conhecimento em desenvolvimento mobile com **React native**
-    - Onde estou desenvolvendo um projeto de app mobile para localizar lojas próximas a você, mais detalhes no repositório: <a>https://github.com/thgularte/appMobile-milojas</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
